@@ -1,0 +1,144 @@
+body{
+    font-family: sans-serif;
+}
+.underword{
+    color: gray;
+    padding-left: 20px;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.registerDiv{
+    background-color: rgb(0,58,57);
+    color: white;
+    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 200px;
+    display: flex;
+    gap: 800px;
+    
+}
+.registerWord{
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.registerWordDiv{
+    background-color: rgb(252,213,53);
+    width: 60px;
+    color: black;
+    height: 22px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.registerWordDiv2{
+    background-color: rgb(252,213,53);
+    width: 60px;
+    border: 1px solid black;
+    color: black;
+    height: 24px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.registerWordDiv3{
+    background-color: white;
+    width: 60px;
+    border: 1px solid rgb(85, 85, 85);
+    color: black;
+    height: 24px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.theHome{
+    background-image: url("img/golden_christmas_decoration_balls_ornaments_stars_black_background_4k_5k_hd_christmas.jpg");
+   height: 500px;
+   background-color: black;
+   background-size: cover;
+   color: white;
+   display: flex;
+   gap: 300px;
+   padding: 150px;
+}
+.theHomeIMG{
+    width: 510px;
+}
+.regNowBtN{
+background-color: rgb(252,213,53);
+width: 140px;
+height: 50px;
+padding: 10px;
+padding-left: 20px;
+border-radius: 10px;
+color: black;
+}
+.appleImG{
+    background-color: rgb(0,58,57);
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 12px;
+    border-radius: 10px;
+}
+.CarouselImG{
+    width: 300px;
+    border-radius: 10px;
+   
+}
+.fewSteps{
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 49px;
+}
+.btc{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+}
+.Roadto1BTC{
+    width: 1300px;
+    background-color: white;
+    margin-top: -170px;
+    margin-left: 250px;
+    height: 900px;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 30px;
+}
+.fewStepsWords{
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 20px;
+    color: gray;
+    margin-bottom: 20px;
+}
+.completeWlcmBack{
+    background-color: rgb(236, 236, 236);
+    width: 400px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.completeWlcmBackWord{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.completeWlcmBackWord2{
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 20px;
+}
+.TasksBoard{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 80px;
+}
+.completeWlcmBack21{
+    background-color: rgb(236, 236, 236);
+    width: 610px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.LogoIMG{
+    width: 40px;
+}
